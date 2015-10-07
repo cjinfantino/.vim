@@ -54,6 +54,7 @@ set expandtab
 
 " Set tab size in spaces (this is for manual indenting)
 set tabstop=4
+set softtabstop=4
 
 " The number of spaces inserted for a tab (used for auto indenting)
 set shiftwidth=4
